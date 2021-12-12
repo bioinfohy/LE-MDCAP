@@ -1,2 +1,2 @@
 # LE-MDCAP
-A computational model to prioritize causal miRNA‐disease as-sociations
+A computational model to prioritize causal miRNA‐disease associations
